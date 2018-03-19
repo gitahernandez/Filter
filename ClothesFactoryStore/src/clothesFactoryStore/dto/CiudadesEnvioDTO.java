@@ -1,4 +1,5 @@
 package clothesFactoryStore.dto; 
+
 import java.io.Serializable;
 /**
  * Clase CiudadesEnvioDTO
